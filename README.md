@@ -11,8 +11,11 @@ Este es un repositorio para mostrar mis habilidades, compartir proyectos y lleva
 -about(https://github.com/eduarvaro/Data-analytics-portafolio/edit/main/README.md)
 # [portafolio projects] ()
   #[Preprocesamiento basico de ventas](https://github.com/eduarvaro/Data-analytics-portafolio/tree/main/2Preprocesamiento_basico_de_ventas)
+  
   #[Preprocesamiento intermedio de ventas](https://github.com/eduarvaro/Data-analytics-portafolio/tree/main/3Preprocesamiento_intermedio_ventas)
+  
   #[Retail-analitycs](https://github.com/eduarvaro/Data-analytics-portafolio/tree/main/4Retail-analyticso)
+  
   -[statistics data analysis](https://github.com/eduarvaro/Data-analytics-portafolio/tree/main/5Statistics_data_analysis)
   -[sorfwaere_dev_tolls](https://github.com/eduarvaro/Data-analytics-portafolio/tree/main/6Sofware__dev_tools)
   -[video games sales analitics](https://github.com/eduarvaro/Data-analytics-portafolio/tree/main/7video_games_sales_analyticso)
